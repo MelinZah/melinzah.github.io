@@ -1,0 +1,78 @@
+<html lang="en">
+  <!-- 
+  Mau custom web ucapan online? Order di Dika Tutorial aja!
+  Youtube: Deka Tutorial
+  Tiktok: @deka_tutorial
+  Instagram: @deka_tutorial
+  -->
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap" rel="stylesheet" />
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Sharp" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.4.4/dist/sweetalert2.all.min.js"></script>
+    <title>MAGRAD2.0</title>
+    <link rel="stylesheet" href="https://dekatutorial.github.io/spl/s.css" />
+    <script src="https://dekatutorial.github.io/spl/s.js"></script>
+  </head>
+  <body class="body">
+    <div class="open">
+      <div class="card"> <h2>PESANAN BUAT ANAK-ANAK STPM BATCH 2023</h2>
+        <img class="mail" src="https://dekatutorial.github.io/spesial_mail.png" alt="" srcset="" />
+        <h3>Tekan untuk buka sampul</h3>
+      </div>
+    </div>
+    <div class="atas" id="atas">
+      <img src="backdrop.jpg" alt="" />
+      <h2>Skrol ke bawah untuk baca pesanan</h2>
+    </div>
+
+    <p data-aos="zoom-in">Jaga diri, Hiasi Peribadi - Cikgu Norazlina</p>
+    <p data-aos="zoom-in">Semoga anda semua berjaya mendapat keputusan STPM yang cemerlang dan terus gemilang hingga ke Universiti - Cikgu Maizatul</p>
+    <p data-aos="zoom-in">Goodluck and wish u all the very best in your future endeavors - Madam Linda</p>
+    <p data-aos="zoom-in">Saya berharap suatu hari nanti kamu semua dapat memanusiakan manusia yang sudah semestinya manusia. ILU - Cikgu Ainul</p>
+    <p data-aos="zoom-in">Khas buat anak2 STPM Badawi 2023  : 
+    Tugas cikgu sebagai guru anda mungkin berhenti di sini tetapi   ukhwah yang telah terbina akan berkekalan hingga akhir hayat. Semoga segala perit jerih anda sebagai pelajar STPM akan  terbalas juga akhirnya nanti .  Semoga anak-anak cikgu terus sukses.-Cikgu Sofiah</p>
+    <p data-aos="zoom-in">Success is a journey and not a destination. It may be a long and winding path, but with determination and strong will, I know all of you will be successful in your future undertakings🌹- Madam Amalina</p>
+    <p data-aos="zoom-in">Semarak impian segunung harap di pulang,Usah diragukan keyakinan diri❗️
+    Semoga terus berjaya dlm meniti kehidupan. - Cikgu Suraya</p>
+    <p data-aos="zoom-in">Tidak ada hidup tanpa masalah
+    Tidak ada perjuangan tanpa rasa LELAH
+    Tetap bersemangat sampai Bismillah mu menjadi ALHAMDULILLAH 🤍🌹-Cikgu Azah</p>
+    <p data-aos="zoom-in">This is only the beginning of a milestones journey! Congrats! -Cikgu Azman Ahmad</p>
+    <p data-aos="zoom-in">Setiap usaha bersungguh2, diiringi demgan DOA,disertai dgn tawakal....in Shaa Allah pasti kejayaan milik anda -Cikgu Azzahida</p>
+    <p data-aos="zoom-in">Langkah ke ALAM kedewasaan akan lebih mencabar. Cikgu doakan semua akan mampu memgharunginya dgn matang & cemerlang - Cikgu Suzanna</p>
+    <p data-aos="zoom-in">To all dearest students batch 2023, I wish you all the best in your future undertakings ... Keep reaching for the stars!!! - Madam Norziah</p>
+    <p data-aos="zoom-in">I wish you all the best and success in your future endeavours - Madam Aida</p>
+    <p data-aos="zoom-in">Setiap perkara yang berlaku dalam hidup kita, samada kita suka atau tidak….percayalah itulah yang terbaik untuk kita kerana ALLAH adalah sebaik baik perancang untuk hambaNya - Cikgu Jamaliah</p>
+     <p data-aos="zoom-in">Belajarlah dari kesilapan agar tidak berulang, belajarlah dari kejayaan agar terus cemerlang - Cikgu Noridah</p>
+    <p data-aos="zoom-in">Sebaik-baik manusia, adalah mereka yang bermanfaat bagi orang lain - Cikgu Robiah</p>
+    <p data-aos="zoom-in">All the best anak-anak Pra U 2023 - Cikgu Azahar Kasa</p>
+    <p data-aos="zoom-in">Kecemerlangan adalah hasil daripada sikap yang ingin sentiasa melakukan yang terbaik. Kejayaan milik anda - Cikgu Rusmina❤️</p>
+     <p data-aos="zoom-in">Berhenti bandingkan dirimu dengan orang lain, setiap individu memiliki perjalanan hidup yang berbeza -  Cikgu Mahani</p>
+    <p data-aos="zoom-in">Semoga anak2 Stpm 2023 sentiasa berjaya mencapai kejayaan dlm apa juga bidang yg diceburi - Cikgu Shukri</p>
+     <p data-aos="zoom-in">To the 2023 Form 6 students, I wish you all success! Keep striving for excellence, always do your best and be an impactful human being. Love you all 💕 - Madam Juliah</p>
+     <p data-aos="zoom-in"> Syabas dan Tahniah kpd semua pelajar Tingkatan 6 badawi yang telah tamatkan Tingkatan enam dengan jayanya - Cikgu Palany</p>
+     <p data-aos="zoom-in">DOA KAMI MENGIRINGI SETIAP LANGKAH KALIAN, ANAK-ANAK STPM BATCH 2023</p>
+    
+   
+    <script>
+
+      var musik = "muzik.mp3";
+
+// Yang mau tanpa wm, custom tampilan, bisa order web ucapan di Deka Tutorial (DM IG @deka_tutorial)
+// ======================================
+    </script>
+    <script>
+      AOS.init({ once: true });
+    </script>
+    <script>
+      DekaTutorial(musik);
+    </script>
+  </body>
+</html>
